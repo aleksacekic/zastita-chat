@@ -1,0 +1,205 @@
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\appsettings.Development.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\appsettings.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\backend.exe
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\backend.deps.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\backend.runtimeconfig.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\backend.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\backend.pdb
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\backend.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\backend.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\backend.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\backend.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\scopedcss\bundle\backend.styles.css
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\staticwebassets\backend.StaticWebAssets.Manifest.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\staticwebassets\backend.StaticWebAssets.Pack.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.build.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\backend.RazorTargetAssemblyInfo.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\refint\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\backend.pdb
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\backend.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\ref\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\package-lock.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\package.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita\backend\obj\Debug\net5.0\backend.csproj.CopyComplete
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\appsettings.Development.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\appsettings.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\package-lock.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\package.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\backend.exe
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\backend.deps.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\backend.runtimeconfig.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\backend.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\backend.pdb
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\backend.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\backend.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\backend.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\backend.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\scopedcss\bundle\backend.styles.css
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\staticwebassets\backend.StaticWebAssets.Manifest.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\staticwebassets\backend.StaticWebAssets.Pack.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.build.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\backend.RazorTargetAssemblyInfo.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\backend.csproj.CopyComplete
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\refint\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\backend.pdb
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\backend.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa\Zastita\backend\obj\Debug\net5.0\ref\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\appsettings.Development.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\appsettings.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\package-lock.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\package.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\backend.exe
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\backend.deps.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\backend.runtimeconfig.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\backend.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\backend.pdb
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\backend.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\backend.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\backend.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\backend.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\scopedcss\bundle\backend.styles.css
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\backend.StaticWebAssets.Manifest.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\backend.StaticWebAssets.Pack.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.build.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\backend.RazorTargetAssemblyInfo.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\backend.csproj.CopyComplete
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\refint\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\backend.pdb
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\backend.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 2. zadatak\Zastita\backend\obj\Debug\net5.0\ref\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\appsettings.Development.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\appsettings.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\package-lock.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\package.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\backend.exe
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\backend.deps.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\backend.runtimeconfig.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\backend.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\backend.pdb
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\backend.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\backend.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\backend.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\backend.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\scopedcss\bundle\backend.styles.css
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\backend.StaticWebAssets.Manifest.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\backend.StaticWebAssets.Pack.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.build.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.backend.props
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\backend.RazorTargetAssemblyInfo.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\backend.csproj.CopyComplete
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\refint\backend.dll
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\backend.pdb
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\backend.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Faculty of Electronic Engineering\Radna površina\Zastita_CekicAleksa - 3. zadatak\Zastita\backend\obj\Debug\net5.0\ref\backend.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\appsettings.json
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\package.json
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\package-lock.json
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\backend.exe
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\backend.deps.json
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\backend.runtimeconfig.json
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\backend.runtimeconfig.dev.json
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\backend.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\backend.pdb
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\backend.csproj.AssemblyReference.cache
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\backend.AssemblyInfoInputs.cache
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\backend.AssemblyInfo.cs
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\scopedcss\bundle\backend.styles.css
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\staticwebassets\backend.StaticWebAssets.Manifest.cache
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\staticwebassets\backend.StaticWebAssets.Pack.cache
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.build.backend.props
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\backend.RazorTargetAssemblyInfo.cache
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\backend.csproj.CopyComplete
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\backend.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\refint\backend.dll
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\backend.pdb
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\backend.genruntimeconfig.cache
+C:\Users\Aleksa Cekić\Downloads\Zastita_CekicAleksa - 3. zadatak -\Zastita\backend\obj\Debug\net5.0\ref\backend.dll
